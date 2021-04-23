@@ -2,7 +2,7 @@
 
 <p>
     <!-- TODO: Change to the "mfelipe-logo-light.svg" when github allows image by themes: (dark, light...) -->
-    <img src="images/mfelipe-logo-bg.png" />
+    <img src="images/mfelipe-logo-grey.png" />
 </p>
 <br/><br/>
 
