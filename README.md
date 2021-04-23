@@ -1,16 +1,9 @@
 # Hi there 👋, I'm Felipe Ferreira
 
-<picture>
-      <source 
-        srcset="https://i.postimg.cc/wMBh85XV/mfelipe-logo-dark.png"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://i.postimg.cc/63trzxTF/mfelipe-logo-light.png"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://i.postimg.cc/63trzxTF/mfelipe-logo-light.png" />
-</picture>
+<p>
+    <!-- TODO: Change to the "mfelipe-logo-light.svg" when github allows image by themes: (dark, light...) -->
+    <img src="images/mfelipe-logo-bg.png" />
+</p>
 <br/><br/>
 
 :iphone: Mobile and Game developer | Master's Degree in Game development
@@ -36,6 +29,13 @@
 
 Analyst, curious about new technologies. My aim is related with **game** and **mobile** apps development using technologies/platforms like `Android`, `IOS`, `Unity3D` and `Unreal Engine`, using Agile methodologies and Lean concepts.
 
+## Portfolio
+
+<p>
+You can see game projects and mobile apps that I worked as a programmer on <a href="https://www.behance.net/mfelipeof"> <img align="middle" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /> </a>
+</p>
+
+<!--[![Behance Portfolio](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mfelipeof)-->
 
 ## :iphone: Platforms
 <p>
