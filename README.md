@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Felipe Ferreira
 
 <p>
-    <!-- TODO: Change to the "mfelipe-logo-light.svg" when github allows image by themes: (dark, light...) -->
-    <img src="images/mfelipe-logo-grey.png" />
+<p>
+    <img src="images/mfelipe-logo-light.svg#gh-light-mode-only" />
+    <img src="images/mfelipe-logo-grey.png#gh-dark-mode-only" />
+</p>
 </p>
 <br/><br/>
 
